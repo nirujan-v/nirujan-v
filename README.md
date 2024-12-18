@@ -14,6 +14,8 @@
 <img width="40px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="40px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 
+<br>
+
 ### Stats
 
 [![Nirujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirujan-v)](https://github.com/nirujan-v/github-readme-stats)
