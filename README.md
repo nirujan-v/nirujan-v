@@ -1,7 +1,9 @@
 👋 Hi, I’m Nirujan Velvarathan
-- 👀 I’m interested in becoming a Full-stack Developer
-- 📫 How to reach me LinkedIn @Nirujan Velvarathan
+- 👀 Junior Software Developer with over 6 years of Python experience
 - 🧠 Passionate about deep learning and generative AI.
+- 🎯 Actively seeking Software Developer positions. Check out my repos and let’s talk!
+- 📫 How to reach me LinkedIn @Nirujan Velvarathan
+
 
 
 
