@@ -3,7 +3,7 @@
 - 📫 How to reach me LinkedIn @Nirujan Velvarathan
 - 🧠 Passionate about deep learning and generative AI.
 
-<br>
+
 
 ### Languages and Tools ⌨️
 <img width="40px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -17,6 +17,9 @@
 
 <br>
 <br>
+
+
+
 
 ### Stats 📊
 
