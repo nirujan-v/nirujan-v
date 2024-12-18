@@ -4,7 +4,7 @@
 - 🧠 Passionate about deep learning and generative AI.
 
 
-### Languages and Tools
+### Languages and Tools ⌨️
 <img width="40px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="40px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="40px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
@@ -16,7 +16,7 @@
 
 <br>
 
-### Stats
+### Stats 📊
 
 [![Nirujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirujan-v)](https://github.com/nirujan-v/github-readme-stats)
           
