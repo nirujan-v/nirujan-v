@@ -5,7 +5,7 @@
 
 
 ### Languages and Tools
-<img width="30px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="40px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="30px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="30px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img width="30px" align="left" padding="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" />
