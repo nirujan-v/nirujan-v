@@ -21,9 +21,3 @@
 <br>
 
 
-
-
-### Stats 📊
-
-[![Nirujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirujan-v)](https://github.com/nirujan-v/github-readme-stats)
-          
